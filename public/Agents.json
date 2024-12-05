@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "role": "Senior Agent",
+      "phone": "+1-555-123-4567",
+      "picture": "https://www.radiustheme.com/demo/wordpress/themes/homlisti/wp-content/uploads/classified-listing/2022/03/david_lee.jpg",
+      "listings": [101, 102]
+    },
+    {
+      "id": 2,
+      "name": "Emma Johnson",
+      "role": "Junior Agent",
+      "phone": "+1-555-987-6543",
+      "picture": "https://www.radiustheme.com/demo/wordpress/themes/homlisti/wp-content/uploads/classified-listing/2022/03/rosy_janner.jpg",
+      "listings": [103]
+    },
+    {
+      "id": 3,
+      "name": "Michael Lee",
+      "role": "Broker",
+      "phone": "+1-555-234-5678",
+      "picture": "https://www.radiustheme.com/demo/wordpress/themes/homlisti/wp-content/uploads/classified-listing/2022/03/mike_hussy-1.jpg",
+      "listings": [104, 105]
+    },
+    {
+      "id": 4,
+      "name": "Tom Steven",
+      "role": "Real Estate Consultant",
+      "phone": "+1-555-345-6789",
+      "picture": "https://www.radiustheme.com/demo/wordpress/themes/homlisti/wp-content/uploads/classified-listing/2022/03/tom_steven.jpg",
+      "listings": [106]
+    }
+  ]
+  
